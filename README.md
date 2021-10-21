@@ -1,2 +1,2 @@
-# zombie-crush-1
-project solution for c29
+# aplasta-al-zombie-1
+solución del proyecto C29
